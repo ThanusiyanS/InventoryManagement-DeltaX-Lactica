@@ -1,0 +1,5 @@
+#aws:
+#  accessKey: AKIA6G5OHYKG3HDHM55J
+#  secretKey: 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
+#  endpoint: dynamodb.eu-north-1.amazonaws.com
+#  region: eu-north-1
